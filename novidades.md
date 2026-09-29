@@ -12,5 +12,3 @@ A rotina anexa 1 linha por candidato avaliado, para não reavaliar produto velho
 Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arquivo.
 
 <!-- entradas abaixo -->
-2026-09-29 | Revisão cruzada da minuta em chat novo (técnica atemporal) | n/a | banco-de-pautas | usado
-2026-09-29 | Projeto do Claude por tipo de peça (técnica atemporal) | n/a | banco-de-pautas | usado (2º teste)

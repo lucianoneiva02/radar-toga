@@ -33,3 +33,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 
 ## Edições
 <!-- a rotina anexa aqui, uma linha por edição -->
+2026-09-29 | Novidade do dia | ChatGPT Voice com plugins e Voice no Work | agente/conector | OpenAI | 2026-09-23 | help.openai.com release notes

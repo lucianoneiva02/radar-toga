@@ -1,6 +1,6 @@
 # Kit de entregável — [assunto] (edição AAAA-MM-DD)
 
-Objetivo: transformar a novidade do Radar em algo concreto que o mentorado leve para o escritório. Tempo total: ~30 min. Adapte cada seção ao assunto do dia; não copie exemplos de outras edições.
+PÚBLICO: o kit é entregue ao MENTORADO (advogado, usuário avançado de IA). Escreva direto com ele, em 2ª pessoa ("você"), sem mencionar Luciano, feedback interno, rotina ou bastidores do Radar. Objetivo: transformar a novidade do dia em algo concreto que ele leve para o escritório. Tempo total: ~30 min. Adapte cada seção ao assunto do dia; não copie exemplos de outras edições. Não cite produto nem preço do Toga.
 
 Fonte primária: [URL]
 
@@ -21,5 +21,5 @@ Ficha curta com campos: tarefa que vale fazer com o recurso / que não vale / o 
 - [ ] Revisei o que a IA produziu (usar a máxima "A IA produz. Você confere e assina." só se não usada nas últimas 2 semanas; senão escrever "Conferi antes de usar")
 - [ ] Disponibilidade real anotada
 
-## 5. Para o Luciano: fechar o ciclo
-Registrar em feedback.md: reações e perguntas; quem já conhecia; quem testou e enviou a ficha; nota e pedido do Cláudio.
+## 5. Fechamento
+Orientação para guardar a ficha, refazer o teste em ~30 dias e, se quiser, contar ao grupo em uma frase o que funcionou. Sem perguntas ao leitor.

@@ -4,7 +4,7 @@ Cole no prompt da rotina em https://claude.ai/code/routines/trig_019MqpmvHxW9w2P
 
 ## 1. Inserir ANTES de "=== GRAVAR NA MEMÓRIA"
 === KIT DE ENTREGÁVEL (todo dia com edição, depois do bloco pronto) ===
-Leia entregaveis/_modelo.md e crie entregaveis/AAAA-MM-DD-kit-entregavel.md seguindo a estrutura das 5 seções, adaptada ao assunto do dia: requisitos reais de acesso, 3 cenários de teste específicos do recurso, ficha de uso no escritório, checklist final, fechamento de feedback. Use só caso fictício. Sem promessa de resultado. O kit não é técnica de prompt: é roteiro de teste e ficha de aplicação da novidade. Não cite produto nem preço do Toga. Não copie exemplos do kit de outra edição. Em "SEM NOVIDADE QUALIFICADA HOJE" não gere kit.
+Leia entregaveis/_modelo.md e crie entregaveis/AAAA-MM-DD-kit-entregavel.md seguindo a estrutura das 5 seções, adaptada ao assunto do dia: requisitos reais de acesso, 3 cenários de teste específicos do recurso, ficha de uso no escritório, checklist final, fechamento. O kit é para o MENTORADO ler e usar: escreva em 2ª pessoa ("você"), sem mencionar Luciano, feedback interno, rotina ou bastidores do Radar. Os pedidos de feedback ao Luciano ficam só na SAÍDA, nunca dentro do kit. Use só caso fictício. Sem promessa de resultado. O kit não é técnica de prompt: é roteiro de teste e ficha de aplicação da novidade. Não cite produto nem preço do Toga. Não copie exemplos do kit de outra edição. Em "SEM NOVIDADE QUALIFICADA HOJE" não gere kit.
 
 ## 2. Na SAÍDA, adicionar após 'Prompt de imagem:'
 'Kit de entregável:' caminho do arquivo criado e o kit inteiro colado abaixo para copiar

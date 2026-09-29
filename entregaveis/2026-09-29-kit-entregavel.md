@@ -1,6 +1,6 @@
 # Kit de entregável — ChatGPT Voice com plugins + Voice no Work (edição 29/09/2026)
 
-Objetivo: transformar a novidade do Radar em algo concreto que o mentorado leve para o escritório, em vez de ficar só como aviso solto no grupo. Use na ordem. Tempo total: ~30 min.
+Este kit transforma a novidade do dia em algo concreto que você leva para o seu escritório. Siga na ordem. Tempo total: ~30 min.
 
 Fonte primária: https://help.openai.com/en/articles/6825453-chatgpt-release-notes (entrada de 23/09/2026)
 
@@ -21,7 +21,7 @@ Rode os 3 cenários com caso FICTÍCIO e anote o resultado.
 Critérios: entendeu a voz em português? Usou o plugin certo? Pediu confirmação antes de agir? Errou algo que exigiria conferência?
 
 ## 3. Entregável (10 min): ficha de uso no escritório
-Preencha e envie ao grupo ou guarde no Notion/Drive.
+Preencha e guarde no seu Notion/Drive. Se quiser, compartilhe com o grupo o que aprendeu.
 
 **Título:** Voice + plugins no ChatGPT: onde funciona no meu escritório
 - **Tarefa que vale fazer por voz:** ...
@@ -36,8 +36,5 @@ Preencha e envie ao grupo ou guarde no Notion/Drive.
 - [ ] Revisei tudo que a IA produziu antes de usar. A IA produz. Você confere e assina.
 - [ ] Anotei disponibilidade real: web, iOS, Android; Free/Go em Chat com os plugins do plano; Voice no Work exige Voice + Work.
 
-## 5. Para o Luciano: fechar o ciclo
-Depois da edição, registrar em `feedback.md` (modelo do próprio arquivo):
-- Reações e perguntas do grupo
-- Alguém já conhecia? Alguém testou e enviou a ficha da seção 3?
-- Nota e pedido do Cláudio
+## 5. Fechamento
+Guarde a ficha e refaça o teste em 30 dias: o recurso muda rápido e o que falhou hoje pode funcionar depois. Se algo funcionou bem, conte ao grupo em uma frase.

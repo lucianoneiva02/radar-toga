@@ -11,5 +11,5 @@ Formato: - [ ] título | tipo | pré-requisito | nível | usada em (data)
 Usado nos dias sem novidade (ter–qui e sexta sem candidato). Semente mínima: o Luciano completa. Hub: [[00-radar-toga-v6]].
 
 - [ ] Projeto do Claude com instruções fixas por tipo de peça | técnica | Claude Pro | intermediário |
-- [ ] Revisão cruzada: pedir ao Claude que ataque a própria minuta antes de assinar | técnica | nenhum | básico |
+- [x] Revisão cruzada: pedir ao Claude que ataque a própria minuta antes de assinar | técnica | nenhum | básico | 2026-09-29
 - [ ] Transformar e-mail do cliente em checklist de documentos pendentes | fluxo | nenhum | básico |

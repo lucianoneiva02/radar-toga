@@ -33,3 +33,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 
 ## Edições
 <!-- a rotina anexa aqui, uma linha por edição -->
+- 2026-09-29 | Técnica da terça | Revisão cruzada: Claude ataca a própria minuta em chat novo | técnica | Anthropic (Claude) | atemporal | banco-de-pautas

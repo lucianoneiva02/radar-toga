@@ -16,3 +16,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-09-29 | Copilot Autopilot/novo Copilot (Home, Code) | 2026-06-02 (Scout, Build) | blogs.microsoft.com 25/09 | descartado: 1ª aparição >7 dias, preview
 2026-09-29 | Gemini app Windows | 2026-09-10 | blog.google | descartado: 19 dias
 2026-09-29 | Gemini Connected Apps novos | 2026-09-23 | blog.google | descartado: apps sem uso jurídico
+2026-09-30 | OpenAI dots (agentes sempre ativos) | 2026-09-29 | openai.com/index/introducing-dots | usado
+2026-09-30 | Claude Sonnet 5.5 | 2026-09-28 | anthropic.com/news | descartado: já usado, padrão esgotado
+2026-09-30 | Claude developer portal de plugins | 2026-09-25 | support.claude.com release notes | descartado: nicho dev, plugins já cobertos
+2026-09-30 | Gemini Notebook no Google Docs | ~2026-09-25 | softonic (só secundária) | descartado: IA em editor, sem primária

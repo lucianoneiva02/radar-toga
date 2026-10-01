@@ -35,3 +35,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 <!-- a rotina anexa aqui, uma linha por edição -->
 2026-09-29 | Novidade do dia | ChatGPT Voice com plugins e Voice no Work | agente/conector | OpenAI | 2026-09-23 | help.openai.com release notes
 2026-09-30 | Novidade do dia | OpenAI dots, agentes sempre ativos no ChatGPT | agente/conector | OpenAI | 2026-09-29 | openai.com/index/introducing-dots
+2026-10-01 | Novidade do dia | Skills no chat do Gemini | IA em ferramenta de reuso de instruções | Google | 2026-09-30 (Spark ~maio/2026) | blog.google

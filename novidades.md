@@ -20,3 +20,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-09-30 | Claude Sonnet 5.5 | 2026-09-28 | anthropic.com/news | descartado: já usado, padrão esgotado
 2026-09-30 | Claude developer portal de plugins | 2026-09-25 | support.claude.com release notes | descartado: nicho dev, plugins já cobertos
 2026-09-30 | Gemini Notebook no Google Docs | ~2026-09-25 | softonic (só secundária) | descartado: IA em editor, sem primária
+2026-10-01 | Skills no chat do Gemini (substituem Gems) | 2026-09-30 (Spark ~2026-05) | blog.google | usado
+2026-10-01 | Gemini 4 Argon | 2026-09-30 | blog.google | descartado: só cyber defenders, modelo sem acesso
+2026-10-01 | GPT-6.1 Sol | 2026-09-29 | openai.com | descartado: modelo mais barato, padrão esgotado
+2026-10-01 | DevDay: ChatGPT Space/Pages/Team tasks/MCP events | 2026-09-29 | openai.com/index/devday-2026-recap | descartado: mesmo evento dos dots, padrão agente repetido

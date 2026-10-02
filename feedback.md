@@ -29,3 +29,9 @@ Modelo (copiar por edição, entradas mais recentes no fim):
 - Alguém disse que testou/aplicou?: não. Um membro contou que já tem uma skill de parecerista com persona (apelido "Chico"), mas não disse que foi no Gemini nem que testou a novidade. Outro respondeu com o próprio apelido para a persona dele.
 - Nota do Luciano (1-5) e por quê: [a preencher]. Referência objetiva: engajamento moderado, tom positivo e de visão de mercado, nenhum sinal de aplicação prática ou dúvida de uso.
 - Pedido do Cláudio (se houver): nenhum registrado no export.
+
+## 2026-09-29 — ChatGPT Voice com plugins e Voice no Work
+- Sem feedback do grupo (nenhuma reação, pergunta ou teste registrado).
+
+## 2026-09-30 — OpenAI dots, agentes sempre ativos no ChatGPT
+- Sem feedback do grupo (nenhuma reação, pergunta ou teste registrado).

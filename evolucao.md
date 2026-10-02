@@ -20,3 +20,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 
 ## Aprendizados do feedback
 <!-- a rotina anexa aqui: data | sinal observado | ajuste aplicado -->
+2026-10-02 | Sem feedback em 29/09 e 30/09 (grupo silencioso); 01/10 ainda sem registro | Sem sinal para ajustar; manter pauta pelo critério de impacto e evitar tom genérico (Luciano rejeitou Meetings em 02/10)

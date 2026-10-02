@@ -24,3 +24,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-01 | Gemini 4 Argon | 2026-09-30 | blog.google | descartado: só cyber defenders, modelo sem acesso
 2026-10-01 | GPT-6.1 Sol | 2026-09-29 | openai.com | descartado: modelo mais barato, padrão esgotado
 2026-10-01 | DevDay: ChatGPT Space/Pages/Team tasks/MCP events | 2026-09-29 | openai.com/index/devday-2026-recap | descartado: mesmo evento dos dots, padrão agente repetido
+2026-10-02 | Plugin Meetings no ChatGPT macOS | 2026-09-29 | help.openai.com | usado
+2026-10-02 | ChatGPT Pages/Space | 2026-09-29 | help.openai.com release notes | descartado: editor de documento, padrão esgotado
+2026-10-02 | ChatGPT camera Scan multipágina | 2026-10-01 | help.openai.com release notes | descartado: só iOS, ganho pequeno
+2026-10-02 | Pro 500 / Astra Ultrafast | 2026-09-29 | help.openai.com release notes | descartado: plano caro, sem uso claro
+2026-10-02 | Gemini 4 Argon | 2026-09-30 | blog.google | descartado: só cyber defenders (já avaliado)

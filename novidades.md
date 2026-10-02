@@ -29,3 +29,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-02 | ChatGPT camera Scan multipágina | 2026-10-01 | help.openai.com release notes | descartado: só iOS, ganho pequeno
 2026-10-02 | Pro 500 / Astra Ultrafast | 2026-09-29 | help.openai.com release notes | descartado: plano caro, sem uso claro
 2026-10-02 | Gemini 4 Argon | 2026-09-30 | blog.google | descartado: só cyber defenders (já avaliado)
+2026-10-02 | MCP Events no ChatGPT (automações por evento) | 2026-09-29 | developers.openai.com/plugins/build/mcp-events | usado (v2)
+2026-10-02 | Plugin Meetings no ChatGPT | 2026-09-29 | help.openai.com | v1 rejeitada pelo Luciano: tom genérico; não repetir como pauta
+2026-10-02 | Claude Code mods | 2026-10-01 | claude.com/blog/claude-code-mods | descartado: nicho desenvolvedor
+2026-10-02 | Claude for Government GA | 2026-09-30 | claude.com/blog | descartado: fora do perfil

@@ -33,3 +33,9 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-02 | Plugin Meetings no ChatGPT | 2026-09-29 | help.openai.com | v1 rejeitada pelo Luciano: tom genérico; não repetir como pauta
 2026-10-02 | Claude Code mods | 2026-10-01 | claude.com/blog/claude-code-mods | descartado: nicho desenvolvedor
 2026-10-02 | Claude for Government GA | 2026-09-30 | claude.com/blog | descartado: fora do perfil
+2026-10-05 | ChatGPT Finances para Free/Go (EUA) | expansão de recurso existente, 2026-10-02 | help.openai.com release notes | descartado: só EUA, finanças pessoais, sem uso no escritório
+2026-10-05 | ChatGPT Try on + Scan multipágina | 2026-10-01 | help.openai.com release notes | descartado: shopping / só iOS
+2026-10-05 | Gemini 3.8 Live / Live Extended Thinking | 2026-09-15 | blog.google | descartado: 20 dias
+2026-10-05 | M365 Copilot (Cowork, Notebooks, skills no PowerPoint) | 2026-09-23 | learn.microsoft.com release notes | descartado: 12 dias, PowerPoint esgotado
+2026-10-05 | Gemini Skills em Workspace (rollout 05/10) | 2026-09-30 | blog.google | descartado: já usado em 01/10
+2026-10-05 | Anthropic US$100M para treinar engenheiros | 2026-10-02 | anthropic.com/news | descartado: sem capacidade de produto

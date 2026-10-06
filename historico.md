@@ -39,3 +39,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-10-02 | Novidade do dia | Plugin Meetings no ChatGPT (notas de reunião sem bot) | agente/conector | OpenAI | 2026-09-29 | help.openai.com Meetings plugin
 2026-10-02 | Novidade do dia (v2, substitui Meetings) | MCP Events no ChatGPT: automações por evento | agente/conector | OpenAI | 2026-09-29 | developers.openai.com/plugins/build/mcp-events
 2026-10-05 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
+2026-10-06 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —

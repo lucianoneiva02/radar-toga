@@ -39,3 +39,10 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-05 | M365 Copilot (Cowork, Notebooks, skills no PowerPoint) | 2026-09-23 | learn.microsoft.com release notes | descartado: 12 dias, PowerPoint esgotado
 2026-10-05 | Gemini Skills em Workspace (rollout 05/10) | 2026-09-30 | blog.google | descartado: já usado em 01/10
 2026-10-05 | Anthropic US$100M para treinar engenheiros | 2026-10-02 | anthropic.com/news | descartado: sem capacidade de produto
+2026-10-06 | OpenAI novo formato de anúncios no ChatGPT | 2026-10-05 | openai.com/news | descartado: publicidade, sem uso no escritório
+2026-10-06 | OpenAI guia prático GPT-6 | 2026-10-02 | openai.com/news | descartado: guia dev, sem capacidade nova
+2026-10-06 | OpenAI regras de proveniência de texto UE | 2026-10-05 | openai.com/news | descartado: regulação, fora de escopo
+2026-10-06 | Google CC para grupos (Labs) | 2026-09 | blog.google recap setembro | descartado: preview familiar, sem uso jurídico
+2026-10-06 | Gemini 3.8 Live em Gmail/Docs/Keep por voz | ~2026-09-15 | blog.google recap setembro | descartado: >7 dias, editor de documento
+2026-10-06 | Guided Vision no Gemini Live | ~2026-10 (data não confirmada) | blog.google/products/gemini | descartado: nicho acessibilidade
+2026-10-06 | Anthropic sem anúncio novo desde 02/10 | — | anthropic.com/news, support.claude.com | nada a avaliar

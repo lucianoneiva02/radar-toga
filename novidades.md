@@ -46,3 +46,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-06 | Gemini 3.8 Live em Gmail/Docs/Keep por voz | ~2026-09-15 | blog.google recap setembro | descartado: >7 dias, editor de documento
 2026-10-06 | Guided Vision no Gemini Live | ~2026-10 (data não confirmada) | blog.google/products/gemini | descartado: nicho acessibilidade
 2026-10-06 | Anthropic sem anúncio novo desde 02/10 | — | anthropic.com/news, support.claude.com | nada a avaliar
+2026-10-06 | (busca ampliada) Meta Muse (agente pessoal; Gadgets dev kit 02/10) | 2026-09-08 (EUA), 2026-09-18 (Canadá) | aiagentslibrary.com/therundown (secundárias; sem fonte primária aberta) | descartado: >7 dias, só EUA/Canadá
+2026-10-06 | (busca ampliada) OpenAI computer use na Agents API | 2026-09-29 | developers.openai.com/api/docs/changelog | descartado: API para dev, agente de navegador (padrão esgotado)
+2026-10-06 | (busca ampliada) OpenAI textGrain (marca d'água de texto na UE) | 2026-10-05 | openai.com/index/eu-text-provenance | descartado: regulação, fora de escopo
+2026-10-06 | (busca ampliada) Reflection AI Beam (modelo aberto) | 2026-10-05/06 | reflection.ai/blog/introducing-beam (via The Rundown) | descartado: modelo aberto sem acesso no produto, pesos só neste mês
+2026-10-06 | (busca ampliada) Microsoft evento Windows/Surface | 2026-10-07 (amanhã) | windowscentral (secundária) | acompanhar amanhã

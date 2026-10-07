@@ -24,3 +24,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-10-02 | Feedback 01/10 (Gemini skills): 4 respostas em ~1h, tom positivo e de visão de mercado, 0 já conheciam, 0 testaram, sem dúvida de uso | Preferir pautas com ação testável no escritório e com aplicação clara, não só visão de mercado; corrige a linha anterior (01/10 agora tem registro)
 2026-10-05 | Sem feedback novo registrado para 02/10 (v1 rejeitada e v2) | Dia sem pauta qualificada: não forçar; priorizei fonte primária e descartei repetição de padrão (Gemini skills, Copilot/PowerPoint)
 2026-10-06 | Sem feedback novo registrado para 05/10 (sem edição) nem 02/10 | Dia sem pauta qualificada: não forçar; varredura das 4 fontes primárias sem item novo
+2026-10-07 | Sem feedback novo registrado para 02/10, 05/10, 06/10 | Dia sem pauta qualificada: não forçar; Nano Banana 2.1 descartado por falta de data primária e uso no escritório

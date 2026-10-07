@@ -51,3 +51,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-06 | (busca ampliada) OpenAI textGrain (marca d'água de texto na UE) | 2026-10-05 | openai.com/index/eu-text-provenance | descartado: regulação, fora de escopo
 2026-10-06 | (busca ampliada) Reflection AI Beam (modelo aberto) | 2026-10-05/06 | reflection.ai/blog/introducing-beam (via The Rundown) | descartado: modelo aberto sem acesso no produto, pesos só neste mês
 2026-10-06 | (busca ampliada) Microsoft evento Windows/Surface | 2026-10-07 (amanhã) | windowscentral (secundária) | acompanhar amanhã
+2026-10-07 | Google Nano Banana 2.1 (imagem) | ~2026-10-06 (só secundárias) | deepmind.google/models/gemini-image/flash (sem data) | descartado: sem data primária, imagem sem uso claro no escritório
+2026-10-07 | Anthropic Cyber Verification Program expandido | 2026-10-06 | anthropic.com/news | descartado: só profissionais de segurança, nicho
+2026-10-07 | Cohere North 2 | ~2026-10-06 | hpcwire (secundária) | descartado: terceiro nicho, sem primária
+2026-10-07 | Microsoft evento Windows/Surface | 2026-10-07 | pcmag/windowscentral (secundárias) | acompanhar: ocorre hoje, nada confirmado em primária

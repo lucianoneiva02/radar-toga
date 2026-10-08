@@ -55,3 +55,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-07 | Anthropic Cyber Verification Program expandido | 2026-10-06 | anthropic.com/news | descartado: só profissionais de segurança, nicho
 2026-10-07 | Cohere North 2 | ~2026-10-06 | hpcwire (secundária) | descartado: terceiro nicho, sem primária
 2026-10-07 | Microsoft evento Windows/Surface | 2026-10-07 | pcmag/windowscentral (secundárias) | acompanhar: ocorre hoje, nada confirmado em primária
+2026-10-08 | ChatGPT Intelligent UI (GPT-6) | 2026-10-07 | openai.com/index/gpt-6-for-everyone | usado
+2026-10-08 | Claude Haiku 5.5 | 2026-10-07 | anthropic.com/claude-haiku-5-5 | descartado: modelo barato, padrão esgotado
+2026-10-08 | Crédito mensal de API para Max/Team | 2026-10-07 | anthropic.com/claude-haiku-5-5 | descartado: comercial/dev, reserva
+2026-10-08 | ChatGPT audio uploads | 2026-10-06 | help.openai.com release notes | descartado: ganho pequeno, 1ª aparição não confirmada
+2026-10-08 | Gemini / Microsoft | — | blog.google; sem primária | nada novo qualificado

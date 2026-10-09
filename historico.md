@@ -42,3 +42,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-10-06 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-10-07 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-10-08 | Novidade do dia | Intelligent UI no ChatGPT (GPT-6): respostas interativas | capacidade nova de chat | OpenAI | 2026-10-07 | openai.com/index/gpt-6-for-everyone
+2026-10-09 | Novidade do dia | Upload de áudio no ChatGPT (transcrição e resumo) | capacidade nova de chat | OpenAI | 2026-10-06 | help.openai.com release notes

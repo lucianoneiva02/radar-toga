@@ -26,3 +26,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-10-06 | Sem feedback novo registrado para 05/10 (sem edição) nem 02/10 | Dia sem pauta qualificada: não forçar; varredura das 4 fontes primárias sem item novo
 2026-10-07 | Sem feedback novo registrado para 02/10, 05/10, 06/10 | Dia sem pauta qualificada: não forçar; Nano Banana 2.1 descartado por falta de data primária e uso no escritório
 2026-10-08 | Sem feedback novo registrado para 02/10 a 07/10 (07/10 foi sem edição) | Voltei a pautar: capacidade nova de grande alcance com uso testável; evitei tom genérico, teste com dados fictícios sugerido
+2026-10-09 | Sem feedback novo registrado para 05/10 a 08/10 | Voltei a pautar com capacidade nova e uso concreto (áudio de cliente, gravação de reunião); evitei repetir o enquadramento genérico do Meetings

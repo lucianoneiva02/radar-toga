@@ -60,3 +60,9 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-08 | Crédito mensal de API para Max/Team | 2026-10-07 | anthropic.com/claude-haiku-5-5 | descartado: comercial/dev, reserva
 2026-10-08 | ChatGPT audio uploads | 2026-10-06 | help.openai.com release notes | descartado: ganho pequeno, 1ª aparição não confirmada
 2026-10-08 | Gemini / Microsoft | — | blog.google; sem primária | nada novo qualificado
+2026-10-09 | ChatGPT audio uploads | 2026-10-06 | help.openai.com release notes + artigo 8555545 | usado (1ª aparição confirmada; reavaliado, antes descartado em 08/10)
+2026-10-09 | Gemini 4 Argon | 2026-09-30 | blog.google | descartado: 9 dias, só cyber defenders
+2026-10-09 | Gemini Connected Apps (nova leva) | 2026-09-23 | blog.google | descartado: 16 dias
+2026-10-09 | Anthropic Cyber Mission / Usage Policy | 2026-10-08 | anthropic.com/news | descartado: nicho segurança / política
+2026-10-09 | Microsoft CRM + agentes (vendas) | 2026-10-08 | microsoft.com/microsoft-365/blog | descartado: nicho CRM
+2026-10-09 | Codex faster steering | 2026-10-08 | help.openai.com release notes | descartado: dev

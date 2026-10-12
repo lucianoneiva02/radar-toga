@@ -39,11 +39,8 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-10-02 | Novidade do dia | Plugin Meetings no ChatGPT (notas de reunião sem bot) | agente/conector | OpenAI | 2026-09-29 | help.openai.com Meetings plugin
 2026-10-02 | Novidade do dia (v2, substitui Meetings) | MCP Events no ChatGPT: automações por evento | agente/conector | OpenAI | 2026-09-29 | developers.openai.com/plugins/build/mcp-events
 2026-10-05 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
-<<<<<<< HEAD
 2026-10-06 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-10-07 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-10-08 | Novidade do dia | Intelligent UI no ChatGPT (GPT-6): respostas interativas | capacidade nova de chat | OpenAI | 2026-10-07 | openai.com/index/gpt-6-for-everyone
 2026-10-09 | Novidade do dia | Upload de áudio no ChatGPT (transcrição e resumo) | capacidade nova de chat | OpenAI | 2026-10-06 | help.openai.com release notes
-=======
 2026-10-12 | Novidade do dia | Gemini agent: coworker agent com conta própria no Workspace | agente/conector | Google | 2026-10-08 | cloud.google.com/blog Gemini at Work 2026
->>>>>>> c94d5bc (radar 2026-10-12: Gemini agent coworker)

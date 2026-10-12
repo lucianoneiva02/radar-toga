@@ -39,7 +39,6 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-05 | M365 Copilot (Cowork, Notebooks, skills no PowerPoint) | 2026-09-23 | learn.microsoft.com release notes | descartado: 12 dias, PowerPoint esgotado
 2026-10-05 | Gemini Skills em Workspace (rollout 05/10) | 2026-09-30 | blog.google | descartado: já usado em 01/10
 2026-10-05 | Anthropic US$100M para treinar engenheiros | 2026-10-02 | anthropic.com/news | descartado: sem capacidade de produto
-<<<<<<< HEAD
 2026-10-06 | OpenAI novo formato de anúncios no ChatGPT | 2026-10-05 | openai.com/news | descartado: publicidade, sem uso no escritório
 2026-10-06 | OpenAI guia prático GPT-6 | 2026-10-02 | openai.com/news | descartado: guia dev, sem capacidade nova
 2026-10-06 | OpenAI regras de proveniência de texto UE | 2026-10-05 | openai.com/news | descartado: regulação, fora de escopo
@@ -67,10 +66,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-09 | Anthropic Cyber Mission / Usage Policy | 2026-10-08 | anthropic.com/news | descartado: nicho segurança / política
 2026-10-09 | Microsoft CRM + agentes (vendas) | 2026-10-08 | microsoft.com/microsoft-365/blog | descartado: nicho CRM
 2026-10-09 | Codex faster steering | 2026-10-08 | help.openai.com release notes | descartado: dev
-=======
 2026-10-12 | Gemini agent (coworker agent no Workspace) | 2026-10-08 | cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026 | usado
 2026-10-12 | Gemini Enterprise for Legal (preview) | 2026-10-08 | cloud.google.com blog | descartado: produto jurídico já no histórico
 2026-10-12 | Claude Opus/Sonnet 5.5 no Antigravity via Gemini Enterprise | 2026-10-08 | docs.cloud.google.com release notes | descartado: dev
 2026-10-12 | Anthropic Usage Policy 2026 | 2026-10-08 | anthropic.com/news | descartado: política
 2026-10-12 | Anthropic: nada novo em 09-12/10 | — | anthropic.com/news | nada a avaliar
->>>>>>> c94d5bc (radar 2026-10-12: Gemini agent coworker)

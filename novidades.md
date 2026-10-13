@@ -71,3 +71,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-12 | Claude Opus/Sonnet 5.5 no Antigravity via Gemini Enterprise | 2026-10-08 | docs.cloud.google.com release notes | descartado: dev
 2026-10-12 | Anthropic Usage Policy 2026 | 2026-10-08 | anthropic.com/news | descartado: política
 2026-10-12 | Anthropic: nada novo em 09-12/10 | — | anthropic.com/news | nada a avaliar
+2026-10-13 | Meta Muse Wonder / Wonder Full (modelos) | 2026-10-12 | about.fb.com/news/2026/10/introducing-muse-wonder-models/ | descartado: só API/Muse Code para devs, app "em breve", Muse só EUA/Canadá
+2026-10-13 | Microsoft 365 Copilot Search+Chat, Regenerate (release notes) | ≤2026-10-06 (data por item não confirmada) | releasebot.io (secundária) | descartado: ganho pequeno, sem primária aberta
+2026-10-13 | Copilot no PowerPoint: skills personalizadas | ≤2026-10-06 | releasebot.io (secundária) | descartado: padrão esgotado (editor de documento)
+2026-10-13 | Codex composer predictions | 2026-10-09 | help.openai.com release notes | descartado: dev
+2026-10-13 | Anthropic / Gemini | — | anthropic.com/news, support.claude.com, blog.google | nada novo qualificado

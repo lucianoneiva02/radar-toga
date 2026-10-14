@@ -45,3 +45,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-10-09 | Novidade do dia | Upload de áudio no ChatGPT (transcrição e resumo) | capacidade nova de chat | OpenAI | 2026-10-06 | help.openai.com release notes
 2026-10-12 | Novidade do dia | Gemini agent: coworker agent com conta própria no Workspace | agente/conector | Google | 2026-10-08 | cloud.google.com/blog Gemini at Work 2026
 2026-10-13 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
+2026-10-14 | Novidade do dia | Claude Dashboards e Claude Motion (beta) | capacidade nova de chat/agente | Anthropic | 2026-10-08 | claude.com/resources/articles/dashboards-and-motion

@@ -76,3 +76,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-13 | Copilot no PowerPoint: skills personalizadas | ≤2026-10-06 | releasebot.io (secundária) | descartado: padrão esgotado (editor de documento)
 2026-10-13 | Codex composer predictions | 2026-10-09 | help.openai.com release notes | descartado: dev
 2026-10-13 | Anthropic / Gemini | — | anthropic.com/news, support.claude.com, blog.google | nada novo qualificado
+2026-10-14 | Claude Dashboards e Claude Motion (beta) | 2026-10-08 | claude.com/resources/articles/dashboards-and-motion | usado
+2026-10-14 | Claude no Google Docs/Sheets/Slides (connectors, beta Enterprise) | 2026-10-06 | claude.com/resources/product-announcements | descartado: 8 dias, padrão editor de documento
+2026-10-14 | Anthropic: guia Building effective agent automations | 2026-10-08 | claude.com/resources/articles | descartado: guia dev
+2026-10-14 | Anthropic Singapura | 2026-10-14 | anthropic.com/news | descartado: corporativo
+2026-10-14 | OpenAI / Google / Microsoft | — | release notes, blogs | nada novo qualificado além do já avaliado

@@ -81,3 +81,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-14 | Anthropic: guia Building effective agent automations | 2026-10-08 | claude.com/resources/articles | descartado: guia dev
 2026-10-14 | Anthropic Singapura | 2026-10-14 | anthropic.com/news | descartado: corporativo
 2026-10-14 | OpenAI / Google / Microsoft | — | release notes, blogs | nada novo qualificado além do já avaliado
+2026-10-15 | Gemini 4 Argon no app Gemini (Pro/Ultra) + Tasks | 2026-09-30 (modelo); scheduled actions 2025-06 | blog.google/.../introducing-gemini-4-argon | descartado: 15 dias, modelo (padrão esgotado), tasks/agendamento já existentes
+2026-10-15 | Gemini conecta 40+ apps (Instacart, OpenTable, Shopify) | 2026-09-23 (nova leva) | blog.google gemini-4-argon-availability | descartado: consumidor, já avaliado
+2026-10-15 | Anthropic Singapura / midterms | 2026-10-14 | anthropic.com/news | descartado: corporativo/política
+2026-10-15 | OpenAI / Microsoft / Claude release notes | — | primárias | nada novo qualificado

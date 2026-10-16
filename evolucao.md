@@ -31,3 +31,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-10-13 | Sem feedback novo registrado para 08/10, 09/10 e 12/10 (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Muse Wonder descartado por ser só API/dev e EUA/Canadá
 2026-10-14 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei capacidade nova com uso testável; dita disponibilidade honesta (Motion só Team/Enterprise)
 2026-10-15 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Argon descartado (1ª aparição 30/09, modelo)
+2026-10-16 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; GPT-Live 1.1 e extensão Chrome descartados por 1ª aparição antiga

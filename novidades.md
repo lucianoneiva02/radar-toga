@@ -85,3 +85,10 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-15 | Gemini conecta 40+ apps (Instacart, OpenTable, Shopify) | 2026-09-23 (nova leva) | blog.google gemini-4-argon-availability | descartado: consumidor, já avaliado
 2026-10-15 | Anthropic Singapura / midterms | 2026-10-14 | anthropic.com/news | descartado: corporativo/política
 2026-10-15 | OpenAI / Microsoft / Claude release notes | — | primárias | nada novo qualificado
+2026-10-16 | GPT-Live-1.1 e novas vozes no ChatGPT Voice | 2026-07-08 (GPT-Live) | help.openai.com release notes; openai.com/index/introducing-gpt-live | descartado: 1ª aparição 100 dias, ajuste de vozes
+2026-10-16 | ChatGPT extensão Chrome lê abas abertas | ~2026-07 (secundárias) | techradar/digitaltrends (secundárias) | descartado: >7 dias, padrão esgotado (agente no navegador)
+2026-10-16 | Gemini Skills chegando ao app | 2026-09-30 | 9to5google/blog (secundária) | descartado: já publicado em 01/10
+2026-10-16 | Claude Managed Agents dynamic workflows (beta) | 2026-10-09 (secundárias); Claude Code 2026-05-28 | fourweekmba/latent.space (secundárias) | descartado: API/dev, sem primária aberta, 1ª aparição em maio
+2026-10-16 | ChatGPT Rosalind Academic Plan; limite de Sites removido | 2026-10-15 | help.openai.com release notes | descartado: nicho acadêmico / ajuste pequeno
+2026-10-16 | Google Universal Cart | 2026-10-15 | secundárias | descartado: compras de consumidor
+2026-10-16 | Anthropic / Microsoft | — | anthropic.com/news, support.claude.com | nada novo qualificado

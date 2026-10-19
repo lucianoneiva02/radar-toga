@@ -92,3 +92,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-16 | ChatGPT Rosalind Academic Plan; limite de Sites removido | 2026-10-15 | help.openai.com release notes | descartado: nicho acadêmico / ajuste pequeno
 2026-10-16 | Google Universal Cart | 2026-10-15 | secundárias | descartado: compras de consumidor
 2026-10-16 | Anthropic / Microsoft | — | anthropic.com/news, support.claude.com | nada novo qualificado
+2026-10-19 | GPT-6 Pro: agentes paralelos no Chat | 2026-10-16 | help.openai.com release notes | usado
+2026-10-19 | ChatGPT Slides | 2026-10-16 | help.openai.com release notes | descartado: padrão esgotado (editor de documento)
+2026-10-19 | Microsoft Today/Autopilot (Copilot) | 2026-09-25 | secundárias | descartado: preview privado, >7 dias, sem primária aberta
+2026-10-19 | Anthropic / Gemini / Claude release notes | — | anthropic.com/news, support.claude.com | nada novo qualificado (só corporativo)

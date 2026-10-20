@@ -96,3 +96,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-19 | ChatGPT Slides | 2026-10-16 | help.openai.com release notes | descartado: padrão esgotado (editor de documento)
 2026-10-19 | Microsoft Today/Autopilot (Copilot) | 2026-09-25 | secundárias | descartado: preview privado, >7 dias, sem primária aberta
 2026-10-19 | Anthropic / Gemini / Claude release notes | — | anthropic.com/news, support.claude.com | nada novo qualificado (só corporativo)
+2026-10-20 | Microsoft Copilot for Legal (20+ skills em Word e Cowork, GA) | Legal Agent 2026-04; GA 2026-10-15 | techcommunity.microsoft.com Copilot blog | descartado: vertical jurídico já descartado + padrão editor de documento
+2026-10-20 | ChatGPT Slides | 2026-10-16 | help.openai.com release notes | descartado: já avaliado, editor de documento
+2026-10-20 | Claude Haiku 5.5 | 2026-10-07 | anthropic.com/news | descartado: 13 dias, modelo
+2026-10-20 | Anthropic / Gemini / OpenAI primárias | — | anthropic.com/news, blog.google, help.openai.com | nada novo qualificado

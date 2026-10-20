@@ -33,3 +33,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-10-15 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Argon descartado (1ª aparição 30/09, modelo)
 2026-10-16 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; GPT-Live 1.1 e extensão Chrome descartados por 1ª aparição antiga
 2026-10-19 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei agente com uso testável; disponibilidade dita com honestidade (só Pro, sem limites informados)
+2026-10-20 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Copilot for Legal descartado (vertical jurídico + Word)

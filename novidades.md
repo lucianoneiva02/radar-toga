@@ -100,3 +100,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-20 | ChatGPT Slides | 2026-10-16 | help.openai.com release notes | descartado: já avaliado, editor de documento
 2026-10-20 | Claude Haiku 5.5 | 2026-10-07 | anthropic.com/news | descartado: 13 dias, modelo
 2026-10-20 | Anthropic / Gemini / OpenAI primárias | — | anthropic.com/news, blog.google, help.openai.com | nada novo qualificado
+2026-10-21 | ChatGPT Locked chats (chats bloqueados com PIN) | 2026-10-20 | help.openai.com release notes + artigo 20001411 | usado
+2026-10-21 | Gemini Connected Apps / ferramentas para pequenos negócios | 2026-10-20 | blog.google (secundária no resultado) | descartado: consumidor/nicho
+2026-10-21 | Gemini no Android Auto com Personal Intelligence | 2026-10-20 | blog.google | descartado: carro, sem uso no escritório
+2026-10-21 | Veo 3.1 no Flow | 2026-10-20 | secundárias | descartado: vídeo, nicho
+2026-10-21 | Anthropic / Claude release notes | — | anthropic.com/news, support.claude.com | nada novo qualificado (só corporativo)

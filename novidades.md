@@ -105,3 +105,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-21 | Gemini no Android Auto com Personal Intelligence | 2026-10-20 | blog.google | descartado: carro, sem uso no escritório
 2026-10-21 | Veo 3.1 no Flow | 2026-10-20 | secundárias | descartado: vídeo, nicho
 2026-10-21 | Anthropic / Claude release notes | — | anthropic.com/news, support.claude.com | nada novo qualificado (só corporativo)
+2026-10-22 | Claude Duet (agente proativo, research preview Pro/Max EUA) | 2026-10-21 | claude.com/resources/articles/claude-duet + support.claude.com release notes | usado
+2026-10-22 | Claude Code Review GA | 2026-10-15 | claude.com/resources/articles | descartado: dev
+2026-10-22 | Claude Security scan contínuo (beta Enterprise) | 2026-10-21 | claude.com/resources/articles | descartado: dev/nicho
+2026-10-22 | HCLTech Claude Partner Network; Anthropic LTBT/Public Benefit Fund | 2026-10-18/21 | anthropic.com/news | descartado: corporativo
+2026-10-22 | OpenAI / Google / Microsoft | — | openai.com, blog.google (DNS falhou) | não verificado nesta execução

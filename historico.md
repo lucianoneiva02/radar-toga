@@ -51,3 +51,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-10-19 | Novidade do dia | GPT-6 Pro com agentes paralelos no Chat | agente/conector | OpenAI | 2026-10-16 | help.openai.com release notes
 2026-10-20 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-10-21 | Novidade do dia | Chats bloqueados (PIN) no ChatGPT | capacidade nova de chat | OpenAI | 2026-10-20 | help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt
+2026-10-22 | Novidade do dia | Claude Duet: app agente proativo (research preview) | agente/conector | Anthropic | 2026-10-21 | claude.com/resources/articles/claude-duet

@@ -110,3 +110,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-22 | Claude Security scan contínuo (beta Enterprise) | 2026-10-21 | claude.com/resources/articles | descartado: dev/nicho
 2026-10-22 | HCLTech Claude Partner Network; Anthropic LTBT/Public Benefit Fund | 2026-10-18/21 | anthropic.com/news | descartado: corporativo
 2026-10-22 | OpenAI / Google / Microsoft | — | openai.com, blog.google (DNS falhou) | não verificado nesta execução
+2026-10-23 | Gemini menu Customize (apps/conectores/skills) | 2026-10-21 | workspaceupdates.googleblog.com (+Android Authority) | descartado: reorganização de menu, Gemini Skills já publicado em 01/10
+2026-10-23 | Anthropic doa Agent Skills à Agentic AI Foundation | 2026-10-22 | anthropic.com/news | descartado: governança, sem mudança de uso
+2026-10-23 | Gemini publica apps no Google Sites | ~2026-10-19 | workspaceupdates.googleblog.com | descartado: ajuste pequeno/nicho
+2026-10-23 | Microsoft segurança de agentes / fim do .agent | 2026-10-19 | microsoft.com/security blog | descartado: corporativo/admin
+2026-10-23 | ChatGPT / Claude release notes | — | help.openai.com, support.claude.com | nada novo além do já avaliado

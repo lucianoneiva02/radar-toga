@@ -37,3 +37,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-10-21 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei capacidade nova de grande alcance (privacidade de chat) com disponibilidade e limites honestos
 2026-10-22 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei agente proativo de grande alcance; disponibilidade honesta (waitlist, Pro/Max EUA, mesmo limite do plano)
 2026-10-23 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Customize do Gemini descartado (menu sobre Skills já publicado)
+2026-10-26 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; OneDrive Copilot descartado (preview desde ago/set, licença Copilot)

@@ -115,3 +115,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-23 | Gemini publica apps no Google Sites | ~2026-10-19 | workspaceupdates.googleblog.com | descartado: ajuste pequeno/nicho
 2026-10-23 | Microsoft segurança de agentes / fim do .agent | 2026-10-19 | microsoft.com/security blog | descartado: corporativo/admin
 2026-10-23 | ChatGPT / Claude release notes | — | help.openai.com, support.claude.com | nada novo além do já avaliado
+2026-10-26 | OneDrive Copilot: relatórios, organizar arquivos, skills (evento 20/10) | preview ago/set 2026 (MC1459130, secundária) | cyberkendra.com (secundária) | descartado: 1ª aparição >7 dias, exige licença Copilot, sem primária aberta
+2026-10-26 | Gemini Notebook: revisão antes de renderizar slides/vídeos | 2026-10-19 | ppc.land (secundária) | descartado: nicho, padrão editor de documento, sem primária
+2026-10-26 | Microsoft 365 E7: controles de agentes e Dynamic Conditional Access | 2026-10-19 | blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider | descartado: admin/segurança corporativa
+2026-10-26 | Claude em Google Cloud, deployment gerenciado pela Anthropic (GA) | ~2026-10-23 | cloud.google.com/blog (secundária no resultado) | descartado: dev/infra
+2026-10-26 | Anthropic Agent Skills para a AAIF; ChatGPT/Claude release notes | 2026-10-22 | anthropic.com/news | descartado: já avaliado em 23/10, nada novo

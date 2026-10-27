@@ -120,3 +120,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-26 | Microsoft 365 E7: controles de agentes e Dynamic Conditional Access | 2026-10-19 | blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider | descartado: admin/segurança corporativa
 2026-10-26 | Claude em Google Cloud, deployment gerenciado pela Anthropic (GA) | ~2026-10-23 | cloud.google.com/blog (secundária no resultado) | descartado: dev/infra
 2026-10-26 | Anthropic Agent Skills para a AAIF; ChatGPT/Claude release notes | 2026-10-22 | anthropic.com/news | descartado: já avaliado em 23/10, nada novo
+2026-10-27 | GPT-6.1 Terra no ChatGPT Work e Codex | 2026-10-26 | help.openai.com release notes (via Firecrawl) | descartado: modelo novo sem capacidade específica, padrão esgotado
+2026-10-27 | Gemini skills de marketing/finanças e landing page para negócios | 2026-10-21 | tech-insider.org (secundária) | descartado: sem primária aberta, nicho, padrão Skills/Customize já avaliado
+2026-10-27 | Anthropic S-1 (IPO) | 2026-10-26 | anthropic.com/news | descartado: corporativo
+2026-10-27 | Anthropic / Claude release notes | — | anthropic.com/news, support.claude.com | nada novo além do já avaliado

@@ -55,3 +55,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-10-23 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-10-26 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-10-27 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
+2026-10-28 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —

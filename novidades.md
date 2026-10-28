@@ -124,3 +124,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-27 | Gemini skills de marketing/finanças e landing page para negócios | 2026-10-21 | tech-insider.org (secundária) | descartado: sem primária aberta, nicho, padrão Skills/Customize já avaliado
 2026-10-27 | Anthropic S-1 (IPO) | 2026-10-26 | anthropic.com/news | descartado: corporativo
 2026-10-27 | Anthropic / Claude release notes | — | anthropic.com/news, support.claude.com | nada novo além do já avaliado
+2026-10-28 | ChatGPT plugins iCloud Mail e Calendar | oficial 2026-10-27; plugin de terceiro já existente, sem data | help.openai.com release notes | descartado: 1ª aparição incerta, nicho iCloud
+2026-10-28 | Copilot em Excel (5 capacidades) / Copilot Studio | out/2026 | techcommunity.microsoft.com (listagem) | descartado: padrão editor de documento / dev-admin
+2026-10-28 | GPT-6.1 Terra | 2026-10-26 | help.openai.com | descartado: modelo, já avaliado
+2026-10-28 | Claude release notes / Google | — | support.claude.com, workspaceupdates | nada novo

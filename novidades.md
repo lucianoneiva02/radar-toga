@@ -128,3 +128,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-28 | Copilot em Excel (5 capacidades) / Copilot Studio | out/2026 | techcommunity.microsoft.com (listagem) | descartado: padrão editor de documento / dev-admin
 2026-10-28 | GPT-6.1 Terra | 2026-10-26 | help.openai.com | descartado: modelo, já avaliado
 2026-10-28 | Claude release notes / Google | — | support.claude.com, workspaceupdates | nada novo
+2026-10-29 | Texting your dot (beta Pro EUA, iMessage/RCS) | 2026-10-28 | help.openai.com release notes | usado
+2026-10-29 | ChatGPT API credits para Pro/Business | 2026-10-28 | help.openai.com | descartado: promocional/dev
+2026-10-29 | Anthropic AI for Science, GSA 40%, S-1, AAIF | 2026-10-22/28 | anthropic.com/news | descartado: corporativo/já avaliado
+2026-10-29 | Google (blog.google, workspaceupdates) | — | — | não verificado: hosts bloqueados

@@ -56,3 +56,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-10-26 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-10-27 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-10-28 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
+2026-10-29 | Novidade do dia | Texting your dot: agente do ChatGPT por iMessage/RCS | agente/conector | OpenAI | 2026-10-28 (dots 2026-09-29) | help.openai.com release notes

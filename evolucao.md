@@ -40,3 +40,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-10-26 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; OneDrive Copilot descartado (preview desde ago/set, licença Copilot)
 2026-10-27 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; GPT-6.1 Terra descartado (modelo sem capacidade específica)
 2026-10-28 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; iCloud plugins do ChatGPT descartado (1ª aparição incerta, nicho)
+2026-10-29 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei capacidade nova específica de agente já conhecido (texting do dot), disponibilidade e risco de terceiro (Linq) ditos com honestidade

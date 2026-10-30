@@ -132,3 +132,9 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-29 | ChatGPT API credits para Pro/Business | 2026-10-28 | help.openai.com | descartado: promocional/dev
 2026-10-29 | Anthropic AI for Science, GSA 40%, S-1, AAIF | 2026-10-22/28 | anthropic.com/news | descartado: corporativo/já avaliado
 2026-10-29 | Google (blog.google, workspaceupdates) | — | — | não verificado: hosts bloqueados
+2026-10-30 | Gemini: criar, visualizar e editar arquivos no app (Slides, Sheets, Docs, código) | geração de arquivos abr/2026; edição/preview 2026-10-29 | workspaceupdates.googleblog.com (via Firecrawl) | descartado: padrão esgotado (editor de documento), incremental
+2026-10-30 | Gemini immersive explorations | 2026-10-28 | blog.google | descartado: hub de estudantes, sem uso no escritório
+2026-10-30 | GPT-6.1 Terra no ChatGPT Work/Codex | 2026-10-26 | learn.chatgpt.com | descartado: modelo, já avaliado
+2026-10-30 | Claude Platform Usage and Cost Analytics API; fast mode Opus 5.5 | 2026-10-29 | platform.claude.com release notes (excerto) | descartado: API/dev
+2026-10-30 | Microsoft Copilot harness (Foundry) | 2026-10-28 | secundária | descartado: dev, sem primária aberta
+2026-10-30 | ChatGPT mais uso de Work/Codex nos planos Pro/Business Premium | 2026-10-29 | help.openai.com (excerto) | descartado: limite de plano

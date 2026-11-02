@@ -138,3 +138,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-10-30 | Claude Platform Usage and Cost Analytics API; fast mode Opus 5.5 | 2026-10-29 | platform.claude.com release notes (excerto) | descartado: API/dev
 2026-10-30 | Microsoft Copilot harness (Foundry) | 2026-10-28 | secundária | descartado: dev, sem primária aberta
 2026-10-30 | ChatGPT mais uso de Work/Codex nos planos Pro/Business Premium | 2026-10-29 | help.openai.com (excerto) | descartado: limite de plano
+2026-11-02 | ChatGPT troca de contas no app (até 2 contas) | 2026-10-30 | help.openai.com release notes | descartado: incremental, só mobile
+2026-11-02 | Microsoft Copilot for finance | 2026-10-29 | microsoft.com/copilot/blog | descartado: vertical financeiro, nicho
+2026-11-02 | ChatGPT mais uso Work/Codex Pro/Business Premium | 2026-10-29 | help.openai.com | descartado: limite de plano
+2026-11-02 | Gemini 4 Carbon | 2026-10-28 | secundária | descartado: acesso restrito a defensores cibernéticos, sem primária
+2026-11-02 | Anthropic GSA, drug development, AI for Science | 2026-10-27/28 | anthropic.com/news | descartado: corporativo

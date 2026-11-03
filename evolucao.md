@@ -43,3 +43,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-10-29 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei capacidade nova específica de agente já conhecido (texting do dot), disponibilidade e risco de terceiro (Linq) ditos com honestidade
 2026-10-30 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Gemini edição de arquivos descartado (padrão editor de documento, geração desde abr/2026)
 2026-11-02 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; troca de contas no ChatGPT mobile descartada (incremental)
+2026-11-03 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; message threads (API) e Enterprise smart reports descartados

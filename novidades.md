@@ -143,3 +143,9 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-02 | ChatGPT mais uso Work/Codex Pro/Business Premium | 2026-10-29 | help.openai.com | descartado: limite de plano
 2026-11-02 | Gemini 4 Carbon | 2026-10-28 | secundária | descartado: acesso restrito a defensores cibernéticos, sem primária
 2026-11-02 | Anthropic GSA, drug development, AI for Science | 2026-10-27/28 | anthropic.com/news | descartado: corporativo
+2026-11-03 | Claude Message threads (Messages API) | 2026-11-02 | claude.com/resources/articles/message-threads | descartado: API/dev
+2026-11-03 | Claude Enterprise smart reports, surveys, pooled budgets | 2026-10-28 | claude.com/resources/articles/smart-reports-surveys-pooled-budgets | descartado: admin Enterprise
+2026-11-03 | Claude Cowork + chat unificados no Enterprise | Pro/Max set/2026; Enterprise 2026-10-23 | claude.com/resources/articles/unified-claude-enterprise | descartado: 1ª aparição >7 dias, Enterprise
+2026-11-03 | Artifacts para trabalho jurídico (Claude for Legal) | 2026-10-28 | claude.com/resources/articles/introducing-artifacts-for-legal-work | descartado: vertical jurídico, nicho
+2026-11-03 | Claude text watermarking | ago/2026 | secundárias | descartado: 1ª aparição antiga
+2026-11-03 | ChatGPT fusão Chat/Work | plano 2026-11-02 | Yahoo Tech (secundária) | descartado: não lançado

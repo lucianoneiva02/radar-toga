@@ -149,3 +149,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-03 | Artifacts para trabalho jurídico (Claude for Legal) | 2026-10-28 | claude.com/resources/articles/introducing-artifacts-for-legal-work | descartado: vertical jurídico, nicho
 2026-11-03 | Claude text watermarking | ago/2026 | secundárias | descartado: 1ª aparição antiga
 2026-11-03 | ChatGPT fusão Chat/Work | plano 2026-11-02 | Yahoo Tech (secundária) | descartado: não lançado
+2026-11-04 | Claude para consultores financeiros (conectores e skills) | 2026-10-27 | claude.com/resources/articles | descartado: vertical financeiro, nicho
+2026-11-04 | Claude for Nonprofits plugin | 2026-10-26 | claude.com/resources/articles | descartado: nicho
+2026-11-04 | OpenAI Grid Protectors, bug bounties, security sprint | 2026-11-02 | openai.com/news | descartado: segurança corporativa, sem uso no escritório
+2026-11-04 | ChatGPT Slides colaborativos | 2026-10-16 | help.openai.com release notes | descartado: 1ª aparição >7 dias, padrão editor de documento
+2026-11-04 | Google (blog.google Gemini, Workspace Updates) e Microsoft Copilot blog | — | fontes oficiais | nada novo na janela

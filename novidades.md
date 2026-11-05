@@ -154,3 +154,9 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-04 | OpenAI Grid Protectors, bug bounties, security sprint | 2026-11-02 | openai.com/news | descartado: segurança corporativa, sem uso no escritório
 2026-11-04 | ChatGPT Slides colaborativos | 2026-10-16 | help.openai.com release notes | descartado: 1ª aparição >7 dias, padrão editor de documento
 2026-11-04 | Google (blog.google Gemini, Workspace Updates) e Microsoft Copilot blog | — | fontes oficiais | nada novo na janela
+2026-11-05 | ChatGPT Images 2.6 (GIFs, referências salvas, 50% mais rápido) | 2026-11-04 | openai.com/index/introducing-images-2-6 | usado
+2026-11-05 | Claude Marketplace: novos agentes e produtos (security, dev, marketing, produtividade) | 2026-11-04 | claude.com/resources/articles/new-agents-and-products-claude-marketplace | descartado: padrão Marketplace já usado, enterprise/dev/segurança
+2026-11-05 | Microsoft Copilot for finance | 2026-10-29 | microsoft.com/copilot/blog | descartado: já avaliado, nicho
+2026-11-05 | ChatGPT mais uso Work/Codex; troca de contas | 2026-10-29/30 | help.openai.com | descartado: já avaliado
+2026-11-05 | Claude text watermarking (4 modelos) | 2026-11-03 (watermark desde ago/2026) | aitoolsrecap.com (secundária) | descartado: sem primária, 1ª aparição antiga
+2026-11-05 | Google (blog.google, workspaceupdates), anthropic.com/news, support.claude.com | — | — | nada novo na janela (workspaceupdates sem posts listados)

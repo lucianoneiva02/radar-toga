@@ -61,3 +61,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-11-02 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-11-03 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-11-04 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
+2026-11-05 | Novidade do dia | ChatGPT Images 2.6: GIFs e imagens de referência salvas | capacidade nova de chat | OpenAI | 2026-11-04 | openai.com/index/introducing-images-2-6

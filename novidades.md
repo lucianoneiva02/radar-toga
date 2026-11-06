@@ -160,3 +160,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-05 | ChatGPT mais uso Work/Codex; troca de contas | 2026-10-29/30 | help.openai.com | descartado: já avaliado
 2026-11-05 | Claude text watermarking (4 modelos) | 2026-11-03 (watermark desde ago/2026) | aitoolsrecap.com (secundária) | descartado: sem primária, 1ª aparição antiga
 2026-11-05 | Google (blog.google, workspaceupdates), anthropic.com/news, support.claude.com | — | — | nada novo na janela (workspaceupdates sem posts listados)
+2026-11-06 | Personal Finance in Claude (beta, Pro/Max/Ultra EUA) | 2026-11-05 | support.claude.com release notes | descartado: finanças pessoais, só EUA
+2026-11-06 | Gemini Canvas: foto de rascunho vira app | 2026-11-05 (post how-to; Canvas gera código desde antes) | blog.google | descartado: recurso existente, dev/prototipação
+2026-11-06 | Gemini Omni 1.2 Flash (vídeo 15s) | 2026-11-05 | jetstream.blog (secundária) | descartado: vídeo/API, sem primária de produto
+2026-11-06 | Claude Enterprise security/admin controls | 2026-11-05 | support.claude.com | descartado: admin Enterprise

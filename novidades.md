@@ -164,3 +164,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-06 | Gemini Canvas: foto de rascunho vira app | 2026-11-05 (post how-to; Canvas gera código desde antes) | blog.google | descartado: recurso existente, dev/prototipação
 2026-11-06 | Gemini Omni 1.2 Flash (vídeo 15s) | 2026-11-05 | jetstream.blog (secundária) | descartado: vídeo/API, sem primária de produto
 2026-11-06 | Claude Enterprise security/admin controls | 2026-11-05 | support.claude.com | descartado: admin Enterprise
+2026-11-09 | Meta Muse Spaces (mini-apps no app Muse) | 2026-11-06 | about.fb.com/news/2026/11/introducing-spaces-customize-muse-app | descartado: app de consumo, sem uso no escritório, disponibilidade não informada
+2026-11-09 | GPT-6 Sol e Luna (Work/Codex, API) | data não exibida | openai.com/index/introducing-gpt-6-sol-and-luna | descartado: modelo mais barato, sem data primária
+2026-11-09 | Claude em Copilot no EU Data Boundary | 2026-11-05 | microsoft.com/microsoft-365/blog | descartado: só UE/EFTA, até fim de 2026
+2026-11-09 | Claude tags de custo por projeto (Enterprise beta) | 2026-11-06 | support.claude.com | descartado: admin Enterprise

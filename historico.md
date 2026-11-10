@@ -64,3 +64,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-11-05 | Novidade do dia | ChatGPT Images 2.6: GIFs e imagens de referência salvas | capacidade nova de chat | OpenAI | 2026-11-04 | openai.com/index/introducing-images-2-6
 2026-11-06 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-11-09 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
+2026-11-10 | Novidade do dia | Claude Fable 5.2 (oferta Pro até 16/11) | modelo novo com capacidade | Anthropic | 2026-11-09 | anthropic.com/claude-fable-and-mythos-5-2

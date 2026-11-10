@@ -168,3 +168,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-09 | GPT-6 Sol e Luna (Work/Codex, API) | data não exibida | openai.com/index/introducing-gpt-6-sol-and-luna | descartado: modelo mais barato, sem data primária
 2026-11-09 | Claude em Copilot no EU Data Boundary | 2026-11-05 | microsoft.com/microsoft-365/blog | descartado: só UE/EFTA, até fim de 2026
 2026-11-09 | Claude tags de custo por projeto (Enterprise beta) | 2026-11-06 | support.claude.com | descartado: admin Enterprise
+2026-11-10 | Claude Fable 5.2 e Mythos 5.2 | 2026-11-09 | anthropic.com/claude-fable-and-mythos-5-2 | usado
+2026-11-10 | JPMorganChase expande Claude Code | 2026-11-09 | claude.com/resources/articles | descartado: caso corporativo
+2026-11-10 | Claude design de protótipos eletrônicos | 2026-11-09 | anthropic.com/research | descartado: pesquisa, sem uso no escritório
+2026-11-10 | Agent memory / dreaming | 2026-11-06 | anthropic.com/research | descartado: Platform/pesquisa
+2026-11-10 | ChatGPT, Gemini, Microsoft Copilot (páginas oficiais) | — | — | nada novo na janela

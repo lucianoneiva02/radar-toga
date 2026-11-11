@@ -173,3 +173,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-10 | Claude design de protótipos eletrônicos | 2026-11-09 | anthropic.com/research | descartado: pesquisa, sem uso no escritório
 2026-11-10 | Agent memory / dreaming | 2026-11-06 | anthropic.com/research | descartado: Platform/pesquisa
 2026-11-10 | ChatGPT, Gemini, Microsoft Copilot (páginas oficiais) | — | — | nada novo na janela
+2026-11-11 | Claude Whiteboards (beta, planos pagos) | 2026-11-10 | claude.com/resources/articles/sheets-whiteboards-data | usado
+2026-11-11 | Claude Sheets (beta) | 2026-11-10 | claude.com/resources/articles/sheets-whiteboards-data | descartado: padrão editor de documento, citado de passagem
+2026-11-11 | Claude Data (Dashboards GA) | beta 2026-10-08/14; GA 2026-11-10 | claude.com | descartado: já usado, precisa de conector de dados
+2026-11-11 | Interactive connectors (apps abrem no Claude) | 2026-11-10 | claude.com/resources/articles/interactive-connectors-full-tool | descartado: padrão MCP Apps já registrado, parceiros de nicho
+2026-11-11 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão

@@ -50,3 +50,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-11-09 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Muse Spaces (consumo) e GPT-6 Sol/Luna (modelo) descartados
 2026-11-10 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei modelo novo de grande alcance com capacidade e oferta; evitei enquadramento só de velocidade/preço; disponibilidade e viés de testadores ditos
 2026-11-11 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei capacidade nova de colaboração (Whiteboards) com uso concreto; beta e limites não informados ditos com honestidade
+2026-11-12 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; multi-agent Fable 5.2 (dev) descartado, OpenAI/Google inacessíveis

@@ -178,3 +178,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-11 | Claude Data (Dashboards GA) | beta 2026-10-08/14; GA 2026-11-10 | claude.com | descartado: já usado, precisa de conector de dados
 2026-11-11 | Interactive connectors (apps abrem no Claude) | 2026-11-10 | claude.com/resources/articles/interactive-connectors-full-tool | descartado: padrão MCP Apps já registrado, parceiros de nicho
 2026-11-11 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão
+2026-11-12 | Safely scaling multi-agent teams with Claude Fable 5.2 | 2026-11-09 | claude.com/blog | descartado: dev/plataforma, página não verificável
+2026-11-12 | Curative: agentes no Claude | 2026-11-10 | claude.com/blog | descartado: caso de cliente
+2026-11-12 | Whiteboards/Sheets/Interactive connectors | 2026-11-10 | claude.com/blog | descartado: já avaliados em 11/11
+2026-11-12 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão

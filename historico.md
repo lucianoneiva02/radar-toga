@@ -66,3 +66,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-11-09 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-11-10 | Novidade do dia | Claude Fable 5.2 (oferta Pro até 16/11) | modelo novo com capacidade | Anthropic | 2026-11-09 | anthropic.com/claude-fable-and-mythos-5-2
 2026-11-11 | Novidade do dia | Claude Whiteboards (beta, quadro colaborativo) | capacidade nova de chat/colaboração | Anthropic | 2026-11-10 | claude.com/resources/articles/sheets-whiteboards-data
+2026-11-12 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —

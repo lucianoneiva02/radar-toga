@@ -182,3 +182,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-12 | Curative: agentes no Claude | 2026-11-10 | claude.com/blog | descartado: caso de cliente
 2026-11-12 | Whiteboards/Sheets/Interactive connectors | 2026-11-10 | claude.com/blog | descartado: já avaliados em 11/11
 2026-11-12 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão
+2026-11-13 | Claude Meetings (beta, Google Meet, Team/Enterprise) | 2026-11-10/12 | claude.com/resources/articles/claude-meetings | usado
+2026-11-13 | Claude self-hosted Managed Agents | 2026-11-12 | claude.com/resources/articles/self-hosted-claude-managed-agents | descartado: dev/infra
+2026-11-13 | Claude for Manufacturing | 2026-11-12 | claude.com/resources/articles/claude-for-manufacturing | descartado: vertical nicho
+2026-11-13 | Opus 5.5 default no Pro/Max/Team | 2026-11-12 (Opus 5.5 desde set/2026) | claude.com/resources/articles | descartado: modelo já usado
+2026-11-13 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão

@@ -52,3 +52,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-11-11 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei capacidade nova de colaboração (Whiteboards) com uso concreto; beta e limites não informados ditos com honestidade
 2026-11-12 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; multi-agent Fable 5.2 (dev) descartado, OpenAI/Google inacessíveis
 2026-11-13 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei agente de grande alcance com uso testável; disponibilidade (beta Team/Enterprise, só Google Meet) e restrições ditas com honestidade
+2026-11-16 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; ChatGPT Wallet (Pro EUA, consumo) e guia always-on agents (dev) descartados

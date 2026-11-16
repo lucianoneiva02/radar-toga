@@ -187,3 +187,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-13 | Claude for Manufacturing | 2026-11-12 | claude.com/resources/articles/claude-for-manufacturing | descartado: vertical nicho
 2026-11-13 | Opus 5.5 default no Pro/Max/Team | 2026-11-12 (Opus 5.5 desde set/2026) | claude.com/resources/articles | descartado: modelo já usado
 2026-11-13 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão
+2026-11-16 | ChatGPT Wallet (agentes pagam via dots) | 2026-11-13 (dots 2026-09-29) | openai.com/index/introducing-chatgpt-wallet | descartado: Pro EUA, compra de consumo, sem uso no escritório
+2026-11-16 | Business Hub / Businesses in ChatGPT | 2026-11-10 | help.openai.com release notes | descartado: e-commerce EUA
+2026-11-16 | Claude "Building always-on agents" | 2026-11-13 | claude.com/blog | descartado: guia dev/Platform, sem lançamento
+2026-11-16 | Retirada Advanced/Standard Voice (11/12) | 2026-11-10 | help.openai.com release notes | descartado: aposentadoria
+2026-11-16 | Google (blog.google) | — | — | não verificado: host fora da rede da sessão

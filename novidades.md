@@ -192,3 +192,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-16 | Claude "Building always-on agents" | 2026-11-13 | claude.com/blog | descartado: guia dev/Platform, sem lançamento
 2026-11-16 | Retirada Advanced/Standard Voice (11/12) | 2026-11-10 | help.openai.com release notes | descartado: aposentadoria
 2026-11-16 | Google (blog.google) | — | — | não verificado: host fora da rede da sessão
+2026-11-17 | Claude Tag guide for startups | 2026-11-13 | claude.com/blog | descartado: guia para startups, sem recurso novo
+2026-11-17 | Microsoft "What AI at work really costs" | 2026-11-16 | microsoft.com/microsoft-365/blog | descartado: pesquisa de custo, sem recurso
+2026-11-17 | Gemini 4 Hydrogen na Busca | 2026-11-13 (secundária) | marketingprofs (não primária) | descartado: sem fonte primária acessível
+2026-11-17 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão

@@ -196,3 +196,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-17 | Microsoft "What AI at work really costs" | 2026-11-16 | microsoft.com/microsoft-365/blog | descartado: pesquisa de custo, sem recurso
 2026-11-17 | Gemini 4 Hydrogen na Busca | 2026-11-13 (secundária) | marketingprofs (não primária) | descartado: sem fonte primária acessível
 2026-11-17 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão
+2026-11-18 | Microsoft Copilot Ignite: Home GA, Autopilot Frontier, Workspaces, Office in Copilot GA | 2026-09-25 (Home/Code/Autopilot) | microsoft.com/copilot/blog/2026/11/17 | descartado: 1ª aparição há 54 dias; Office in Copilot é padrão editor de documento
+2026-11-18 | Claude Desktop canal Stable/Latest | 2026-11-17 | support.claude.com release notes | descartado: configuração de app, sem uso no escritório
+2026-11-18 | Gemini Decisions API | 2026-11-11 | implicator.ai (secundária) | descartado: API/dev, sem primária
+2026-11-18 | Claude linked billing na Platform | 2026-11-17 | claude.com/blog | descartado: admin de plataforma
+2026-11-18 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão

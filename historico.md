@@ -70,3 +70,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-11-13 | Novidade do dia | Claude Meetings (beta): Claude participa de reuniões no Google Meet | agente/conector | Anthropic | 2026-11-10/12 | claude.com/resources/articles/claude-meetings
 2026-11-16 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-11-17 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
+2026-11-18 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —

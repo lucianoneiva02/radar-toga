@@ -54,3 +54,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-11-13 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei agente de grande alcance com uso testável; disponibilidade (beta Team/Enterprise, só Google Meet) e restrições ditas com honestidade
 2026-11-16 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; ChatGPT Wallet (Pro EUA, consumo) e guia always-on agents (dev) descartados
 2026-11-17 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Anthropic/Microsoft sem item novo, OpenAI/Google inacessíveis
+2026-11-18 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Copilot Ignite descartado (1ª aparição 25/09, Office in Copilot é padrão esgotado) e Desktop release channel (config de app)

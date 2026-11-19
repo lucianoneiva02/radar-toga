@@ -201,3 +201,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-18 | Gemini Decisions API | 2026-11-11 | implicator.ai (secundária) | descartado: API/dev, sem primária
 2026-11-18 | Claude linked billing na Platform | 2026-11-17 | claude.com/blog | descartado: admin de plataforma
 2026-11-18 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão
+2026-11-19 | Anthropic prices IPO | 2026-11-18 | anthropic.com/news | descartado: corporativo, sem recurso
+2026-11-19 | Claude linked billing Platform | 2026-11-17 | claude.com/resources/product-updates | descartado: admin de plataforma
+2026-11-19 | Claude Data GA (Enterprise auto-enable 19/11) | Dashboards 2026-10-08 | itechpost (secundária) | descartado: já publicado em 14/10, sem primária
+2026-11-19 | Gemini Intelligence (Android) | 2026-11-10 | secundária | descartado: Android, sem primária
+2026-11-19 | OpenAI/Google/Microsoft (fontes) | — | — | não verificado: hosts fora da rede da sessão

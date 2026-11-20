@@ -56,3 +56,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-11-17 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Anthropic/Microsoft sem item novo, OpenAI/Google inacessíveis
 2026-11-18 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Copilot Ignite descartado (1ª aparição 25/09, Office in Copilot é padrão esgotado) e Desktop release channel (config de app)
 2026-11-19 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Claude Data GA descartado por repetir Dashboards de 14/10
+2026-11-20 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei modelo novo pela capacidade (template por print, pesquisa multi-fonte), não por preço/velocidade; disponibilidade (Work, admin Enterprise) e fonte dos benchmarks ditas

@@ -206,3 +206,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-19 | Claude Data GA (Enterprise auto-enable 19/11) | Dashboards 2026-10-08 | itechpost (secundária) | descartado: já publicado em 14/10, sem primária
 2026-11-19 | Gemini Intelligence (Android) | 2026-11-10 | secundária | descartado: Android, sem primária
 2026-11-19 | OpenAI/Google/Microsoft (fontes) | — | — | não verificado: hosts fora da rede da sessão
+2026-11-20 | GPT-6.2 Astra e Sol (templates por print, pesquisa multi-fonte) | 2026-11-17 | openai.com/index/introducing-gpt-6-2-astra-sol | usado
+2026-11-20 | Responses API background discounts | 2026-11-17 | openai.com/products/release-notes | descartado: dev
+2026-11-20 | Clinical search/Healthcare plugins | 2026-11-16 | openai.com/products/release-notes | descartado: vertical nicho
+2026-11-20 | ChatGPT Wallet | 2026-11-13 | openai.com/products/release-notes | descartado: Pro EUA, consumo (já avaliado 16/11)
+2026-11-20 | Google (fontes) | — | — | não verificado: blog.google fora da rede

@@ -73,3 +73,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-11-18 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-11-19 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-11-20 | Novidade do dia | GPT-6.2 Astra e Sol: documentos que seguem template (inclusive por print) | modelo novo com capacidade | OpenAI | 2026-11-17 | openai.com/index/introducing-gpt-6-2-astra-sol
+2026-11-20 | Curiosidade (pedido do Luciano) | IPO da Anthropic (ANT, US$83) | curiosidade corporativa, fora do escopo de produto | Anthropic | 2026-11-18 | anthropic.com/news/anthropic-prices-initial-public-offering

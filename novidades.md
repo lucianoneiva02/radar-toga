@@ -211,3 +211,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-20 | Clinical search/Healthcare plugins | 2026-11-16 | openai.com/products/release-notes | descartado: vertical nicho
 2026-11-20 | ChatGPT Wallet | 2026-11-13 | openai.com/products/release-notes | descartado: Pro EUA, consumo (já avaliado 16/11)
 2026-11-20 | Google (fontes) | — | — | não verificado: blog.google fora da rede
+2026-11-23 | Computer use (beta) Team/Enterprise | 2026-03-23 (Pro/Max) | support.claude.com release notes | descartado: 1ª aparição há 245 dias, padrão esgotado
+2026-11-23 | Claude Mobile visual refresh (iOS) | 2026-11-20 | support.claude.com release notes | descartado: interface, sem uso no escritório
+2026-11-23 | Anthropic IPO closing | 2026-11-20 | anthropic.com/news/ipo-close | descartado: corporativo, já tratado em 20/11
+2026-11-23 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão

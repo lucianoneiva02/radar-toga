@@ -215,3 +215,6 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-23 | Claude Mobile visual refresh (iOS) | 2026-11-20 | support.claude.com release notes | descartado: interface, sem uso no escritório
 2026-11-23 | Anthropic IPO closing | 2026-11-20 | anthropic.com/news/ipo-close | descartado: corporativo, já tratado em 20/11
 2026-11-23 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão
+2026-11-24 | Zero data retention + Enterprise Frontier Safeguards (beta) | 2026-11-23 | claude.com/blog | descartado: admin/API de plataforma
+2026-11-24 | Gemini 4 Neon | 2026-11-18 (secundária) | larwell.com (não primária) | descartado: modelo sem capacidade nova, sem primária
+2026-11-24 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão

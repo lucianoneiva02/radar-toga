@@ -58,3 +58,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-11-19 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Claude Data GA descartado por repetir Dashboards de 14/10
 2026-11-20 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei modelo novo pela capacidade (template por print, pesquisa multi-fonte), não por preço/velocidade; disponibilidade (Work, admin Enterprise) e fonte dos benchmarks ditas
 2026-11-23 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; computer use Team/Enterprise descartado (1ª aparição 23/03, padrão esgotado)
+2026-11-24 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; ZDR Platform e Gemini 4 Neon descartados

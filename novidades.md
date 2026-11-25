@@ -218,3 +218,8 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-24 | Zero data retention + Enterprise Frontier Safeguards (beta) | 2026-11-23 | claude.com/blog | descartado: admin/API de plataforma
 2026-11-24 | Gemini 4 Neon | 2026-11-18 (secundária) | larwell.com (não primária) | descartado: modelo sem capacidade nova, sem primária
 2026-11-24 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão
+2026-11-25 | Artefatos instaláveis como app (Mac/Windows, beta) | 2026-11-24 | claude.com/resources/articles/install-as-app | usado
+2026-11-25 | Skills over MCP, Tasks GA, Elicitation GA | 2026-11-24 | claude.com/resources/articles/skills-over-mcp-tasks-and-more | descartado: foco em quem constrói servidores MCP (reserva)
+2026-11-25 | File transfers com connectors (beta) | 2026-11-24 | support.claude.com release notes | descartado: menor, rollout parcial
+2026-11-25 | Claude Ship (PR Steward, Approvals) | 2026-11-23 | claude.com/resources/articles/introducing-claude-ship | descartado: dev/GitHub, nicho
+2026-11-25 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão

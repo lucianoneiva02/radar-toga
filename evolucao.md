@@ -59,3 +59,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-11-20 | Sem feedback novo registrado (feedback.md só até 01/10) | Pautei modelo novo pela capacidade (template por print, pesquisa multi-fonte), não por preço/velocidade; disponibilidade (Work, admin Enterprise) e fonte dos benchmarks ditas
 2026-11-23 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; computer use Team/Enterprise descartado (1ª aparição 23/03, padrão esgotado)
 2026-11-24 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; ZDR Platform e Gemini 4 Neon descartados
+2026-11-25 | Sem feedback registrado desde 01/10 (feedback.md só até 30/09) | Pautei capacidade nova de ação testável no escritório (app a partir de artefato que o mentorado já criou)

@@ -76,3 +76,4 @@ Calculadora Jurídica · Consultor da Reforma Tributária · Cérebro 3.0/Obsidi
 2026-11-20 | Curiosidade (pedido do Luciano) | IPO da Anthropic (ANT, US$83) | curiosidade corporativa, fora do escopo de produto | Anthropic | 2026-11-18 | anthropic.com/news/anthropic-prices-initial-public-offering
 2026-11-23 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
 2026-11-24 | SEM NOVIDADE QUALIFICADA | nenhuma pauta passou | — | — | — | —
+2026-11-25 | Novidade do dia | Instalar como app: artefatos do Claude viram apps Mac/Windows (beta) | capacidade nova de chat/agente | Anthropic | 2026-11-24 | claude.com/resources/articles/install-as-app

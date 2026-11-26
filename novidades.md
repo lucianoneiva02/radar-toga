@@ -223,3 +223,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-25 | File transfers com connectors (beta) | 2026-11-24 | support.claude.com release notes | descartado: menor, rollout parcial
 2026-11-25 | Claude Ship (PR Steward, Approvals) | 2026-11-23 | claude.com/resources/articles/introducing-claude-ship | descartado: dev/GitHub, nicho
 2026-11-25 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão
+2026-11-26 | Reflect recap mensal sai de beta (Code/Cowork) | 2026-07-09 | anthropic.com/news/reflect-with-claude | descartado: 1ª aparição há 140 dias, painel de uso
+2026-11-26 | Claude envia/salva arquivos em conectores (beta) | 2026-11-24 | support.claude.com release notes | descartado: incremental, rollout gradual, sem página própria
+2026-11-26 | MCP skills/Tasks/Elicitation | 2026-11-24 | claude.com/blog | descartado: foco em quem constrói servidores MCP
+2026-11-26 | OpenAI/Google/Microsoft (fontes) | — | — | não verificado: hosts fora da rede da sessão

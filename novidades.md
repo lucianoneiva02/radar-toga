@@ -227,3 +227,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-26 | Claude envia/salva arquivos em conectores (beta) | 2026-11-24 | support.claude.com release notes | descartado: incremental, rollout gradual, sem página própria
 2026-11-26 | MCP skills/Tasks/Elicitation | 2026-11-24 | claude.com/blog | descartado: foco em quem constrói servidores MCP
 2026-11-26 | OpenAI/Google/Microsoft (fontes) | — | — | não verificado: hosts fora da rede da sessão
+2026-11-27 | Entrada "Announcements" de 27/11 em anthropic.com/news | 2026-11-27 | anthropic.com/news (sem título) | descartado: sem conteúdo verificável
+2026-11-27 | Copilot Ignite: Home, Autopilot, Workspaces | 2026-11-17 | microsoft.com/microsoft-365/blog | descartado: 10 dias, fora da janela
+2026-11-27 | Envio/salvamento de arquivos em conectores (beta) | 2026-11-24 | support.claude.com release notes | descartado: incremental, já descartado 25 e 26/11
+2026-11-27 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão

@@ -61,3 +61,4 @@ Hub: [[00-radar-toga-v6]]. Narrativa V1–V4 em [[radar-toga]].
 2026-11-24 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; ZDR Platform e Gemini 4 Neon descartados
 2026-11-25 | Sem feedback registrado desde 01/10 (feedback.md só até 30/09) | Pautei capacidade nova de ação testável no escritório (app a partir de artefato que o mentorado já criou)
 2026-11-26 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Reflect descartado (1ª aparição 09/07)
+2026-11-27 | Sem feedback novo registrado (feedback.md só até 01/10) | Dia sem pauta qualificada: não forçar; Copilot Ignite (17/11) fora da janela, entrada sem título da Anthropic inverificável

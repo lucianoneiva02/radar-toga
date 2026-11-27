@@ -231,3 +231,7 @@ Lê só os últimos 60 dias. Hub: [[00-radar-toga-v6]]. Só anexar ao fim do arq
 2026-11-27 | Copilot Ignite: Home, Autopilot, Workspaces | 2026-11-17 | microsoft.com/microsoft-365/blog | descartado: 10 dias, fora da janela
 2026-11-27 | Envio/salvamento de arquivos em conectores (beta) | 2026-11-24 | support.claude.com release notes | descartado: incremental, já descartado 25 e 26/11
 2026-11-27 | OpenAI/Google (fontes) | — | — | não verificado: hosts fora da rede da sessão
+2026-11-27 | ChatGPT Space para Plus | ~2026-09-29 (DevDay) | help.openai.com release notes 20/11 | descartado: 1ª aparição >7 dias, padrão editor de documento
+2026-11-27 | GPT-6.2 na aba Chat | 2026-11-17 (publicado 20/11) | help.openai.com release notes 23/11 | descartado: mesmo modelo, sem capacidade nova
+2026-11-27 | Gemini: histórico separado do treino | 2026-11-24 | secundárias (sem post em blog.google) | descartado: sem fonte primária
+2026-11-27 | Gemini computer use no Mac | sem data primária | secundária | descartado: padrão esgotado
